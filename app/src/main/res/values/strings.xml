@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StackCardView</string>
+
+    <string name="content">古今中外一直有关于外星人的遐想，但现今人类还无法实际探查是否有外星人存在，虽然一直以来，很多人声称自己见证外星人造访地球，甚至与自己发生接触，但是大多数学者专家相信，人类与外星人所谓不同程度的接触，其实都是心理作用，人类发现“外星人”的机会很小，即使发现有外星人的存在，也几乎很难与它们发生任何接触。</string>
+    <string name="left_to_right">从左往右层叠</string>
+    <string name="right_to_left">从右往左层叠</string>
+</resources>
