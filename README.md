@@ -1,6 +1,8 @@
 # 层叠片卡效果
 
-<img src="http://bmob-cdn-20165.b0.upaiyun.com/2019/02/21/c131d653402b7eb0800191cb9d711ae9.mp4"  height="400" width="240">
+<img src="http://bmob-cdn-20165.b0.upaiyun.com/2019/02/21/563aa2874095d4e280cd910b18ed349a.png"  height="400" width="240">
+
+<img src="http://bmob-cdn-20165.b0.upaiyun.com/2019/02/21/5f1c0cfc40ac69b48058b22d515cf0c6.png"  height="400" width="240">
 
 ## 说明
 
